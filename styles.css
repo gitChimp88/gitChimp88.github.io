@@ -1,0 +1,199 @@
+.navli {
+	display: inline-block;
+	margin: 10px;
+	cursor: pointer;
+	color: white;
+	font-size: 20px;
+	transition: all 0.25s ease 0s;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+.navli:hover, .navli:active, .navli:focus {
+	background-color: white;
+	color: #adbdaf;
+	padding: 1px;
+	
+}
+
+.navp {
+	display: inline-block;
+	float: right;
+	margin: 10px;
+	color: white;
+	font-size: 20px;
+	
+}
+
+
+#cover {
+	background: url('/images/cover.jpg') top left no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 800px;
+	width: 2000px;
+	
+}
+
+.tagline {
+	font-size: 24px;
+    line-height: 35px;
+	text-align: center;
+	font-weight: 300;
+	font-family: Raleway;
+	margin-top: 10px
+}
+
+.icons{
+	font-size: 100px;
+	color: white;
+	margin: 20px;
+	margin-top: 10px;
+}
+
+.icons:hover {
+	color: black;
+}
+
+.icons i {
+	margin-top: 10px;
+}
+
+.heading{
+	font-size: 30px;
+    line-height: 35px;
+	font-weight: bold;
+	font-family: Raleway;
+	margin-top: 30px;
+	padding-top:60px;
+	padding-bottom:0px;
+}
+
+.overview {
+	font-size: 18px;
+    line-height: 30px;
+    font-weight: 300;
+	font-family: Raleway;
+	margin-top: 10px;
+	padding: 2px;
+	padding-bottom: 60px;
+	
+}
+
+#cont:hover {
+	background-color: #adbdaf;
+	color: #eeefe6;
+	
+		
+}
+
+#cont {
+	height: 400px;
+}
+
+.heading1{
+	font-size: 40px;
+    line-height: 35px;
+	font-weight: bold;
+	font-family: Raleway;
+	margin-top: 30px;
+	text-decoration: underline;
+	padding-top:60px;
+	padding-bottom:0px;
+}
+
+.black {
+	color: black;
+}
+
+.heading2{
+	font-size: 40px;
+    line-height: 35px;
+	font-weight: bold;
+	font-family: Raleway;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-decoration: underline;
+	padding-top:60px;
+	padding-bottom:0px;
+}
+
+.cap {
+	background-color: white;
+	border-radius: 20px;
+}
+
+
+
+.icon .fa {
+	color: #95b6ab;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	text-shadow: 1px 1px 0px #000,
+			     1px -1px 0px #000,
+			    -1px 1px 0px #000,
+			    -1px -1px 0px #000;
+    transition: all ease-out 0.5s;
+   
+}
+
+.icon .fa:hover {
+	color: black;
+	text-shadow: 1px 1px 0px #fff,
+   				 1px -1px 0px #fff,
+			     -1px 1px 0px #fff,
+			     -1px -1px 0px #fff; 
+}
+
+.icon {
+	padding-top: 50px;
+}
+
+
+.overviews {
+	font-size: 18px;
+    line-height: 35px;
+    font-weight: 300;
+	font-family: Raleway;
+	margin-top: 10px;
+	padding: 2px;
+}
+
+.marg{
+	margin-top: 50px;
+	font-size: 24px;
+	line-height: 35px;
+	font-weight: bold;
+	font-family: Raleway;
+	text-decoration: underline;
+}
+
+#projects {
+	padding-bottom: 90px;
+}
+
+#contact {
+	padding-bottom: 90px;
+}
+
+
+.nav div li a {
+	color: white;
+}
+
+.nav div li a:hover {
+	color: #adbdaf;
+	text-decoration: none;
+}
+
+.last {
+	
+	line-height: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.padd {
+	padding-top: 10px;
+}
